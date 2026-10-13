@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="../Week3consoleApp2026.S00271002/Week3consoleApp2026.S00271002.csproj" />
+  <Project Path="../Week3MauiS00271002/Week3MauiS00271002.csproj" Id="5abbbb55-9d64-406d-a3df-0b1b92f96bed">
+    <Deploy Solution="Debug|*" />
+  </Project>
   <Project Path="Week322026.S00271002.BusinessModel.csproj" />
 </Solution>
